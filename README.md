@@ -2,9 +2,7 @@
 
 👀 I’m interested in coding and making magical things happen.
 
-🌱 I’m currently learning Mobile Application Development using React-Native
-
-📫 Visit my personal portfolio website www.arjunkandel.com
+📫 Visit my personal portfolio website www.arjunkandel.dev
 
 <!---
 arjunkandel91/arjunkandel91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
